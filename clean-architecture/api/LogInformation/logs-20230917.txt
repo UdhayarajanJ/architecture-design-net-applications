@@ -1,0 +1,45 @@
+2023-09-17 20:59:59.745 +05:30 [ERR] have some error
+2023-09-17 21:00:06.973 +05:30 [ERR] have some error
+2023-09-17 21:00:09.167 +05:30 [ERR] have some error
+2023-09-17 21:00:09.568 +05:30 [ERR] have some error
+2023-09-17 21:00:17.548 +05:30 [ERR] have some error
+2023-09-17 21:00:18.040 +05:30 [ERR] have some error
+2023-09-17 21:00:18.463 +05:30 [ERR] have some error
+2023-09-17 21:00:18.912 +05:30 [ERR] have some error
+2023-09-17 21:01:07.216 +05:30 [ERR] have some error
+2023-09-17 21:01:22.023 +05:30 [ERR] have some error
+2023-09-17 21:50:27.073 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'infrastructure.Middleware.GlobalErrorHandler'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-09-17 21:51:34.074 +05:30 [ERR] have some error
+2023-09-17 21:51:36.006 +05:30 [ERR] Check global error handling
+2023-09-17 21:52:08.032 +05:30 [ERR] have some error
+2023-09-17 21:52:09.486 +05:30 [ERR] Check global error handling
+21:56:03 ERR] have some error  
+ 
+ 
+21:56:05 ERR] Check global error handling  
+ 
+ 
+[{dd-MM-yyyy HH:mm:ss} ERR] have some error  
+ 
+ 
+[{dd-MM-yyyy HH:mm:ss} ERR] Check global error handling  
+ 
+ 
+2023-09-17 22:00:21 [ERR] have some error  
+ 
+ 
+2023-09-17 22:00:23 [ERR] Check global error handling  
+ 
+ 
+2023-09-17 22:02:05 [ERR] have some error  
+ 
+2023-09-17 22:02:07 [ERR] Check global error handling  
+ 
