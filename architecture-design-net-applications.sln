@@ -5,13 +5,15 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clean-architecture", "clean-architecture", "{A50A01B0-CC95-440D-AAC1-C601C762D765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "clean-architecture\api\api.csproj", "{93B604FF-535A-40EE-876F-F274B925200E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api", "clean-architecture\api\api.csproj", "{93B604FF-535A-40EE-876F-F274B925200E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "application", "clean-architecture\application\application.csproj", "{5E5895DA-53E3-42FB-9E38-168F2F24512B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "application", "clean-architecture\application\application.csproj", "{5E5895DA-53E3-42FB-9E38-168F2F24512B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domain", "clean-architecture\domain\domain.csproj", "{59EEA82A-7DEC-4FE2-BD57-5E86D95762C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "domain", "clean-architecture\domain\domain.csproj", "{59EEA82A-7DEC-4FE2-BD57-5E86D95762C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infrastructure", "clean-architecture\infrastructure\infrastructure.csproj", "{F23596A4-C5F9-4F28-92B6-4266022C56BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "infrastructure", "clean-architecture\infrastructure\infrastructure.csproj", "{F23596A4-C5F9-4F28-92B6-4266022C56BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "repository-pattern", "repository-pattern", "{BE90FB82-58F2-4DA6-886D-C32D5A2E8E49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
