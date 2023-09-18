@@ -15,7 +15,7 @@ namespace infrastructure.Middleware
     {
         public static IEndpointRouteBuilder ConfigureHealthMiddleWare(this IEndpointRouteBuilder app)
         {
-            app.MapHealthChecks("/health/cors", new HealthCheckOptions
+            app.MapHealthChecks("/healthchecks", new HealthCheckOptions
             {
                 ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
             });

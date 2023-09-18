@@ -14,8 +14,8 @@ namespace infrastructure.Extension
         public static void ConfigureHealthCheckService(this IServiceCollection services)
         {
             services.AddHealthChecks()
-                                .AddCheck<HealthCheckApplication>("ApplicationHealth")
-                                .AddCheck<HealthCheckApplication>("HealthCheckDatabase");
+                                .AddCheck<HealthCheckApplication>("ApplicationHealth",tags:new[] { "ApplicationLevel" })
+                                .AddCheck<HealthCheckDatabase>("HealthCheckDatabase", tags: new[] { "DatabaseLevel" });
         }
     }
 }

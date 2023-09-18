@@ -2,3 +2,35 @@
  
 2023-09-18 06:09:19 [ERR] Could not load file or assembly 'Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. The system cannot find the file specified.  
  
+2023-09-18 14:45:52 [ERR] Could not load file or assembly 'Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. The system cannot find the file specified.  
+ 
+2023-09-18 14:47:17 [ERR] Could not load file or assembly 'Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. The system cannot find the file specified.  
+ 
+2023-09-18 14:50:30 [ERR] Could not load file or assembly 'Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. The system cannot find the file specified.  
+ 
+2023-09-18 14:52:04 [ERR] Could not load file or assembly 'Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. The system cannot find the file specified.  
+ 
+2023-09-18 14:53:15 [ERR] Health check HealthCheckDatabase with status "Unhealthy" completed after 1.5467ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-18 14:54:53 [ERR] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)  
+ 
+2023-09-18 14:54:54 [ERR] Health check HealthCheckDatabase with status "Unhealthy" completed after 17821.8595ms with message 'Database is not health check log now'  
+ 
+2023-09-18 14:54:57 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 0.0151ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-18 14:54:57 [ERR] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)  
+ 
+2023-09-18 14:54:57 [ERR] Health check HealthCheckDatabase with status "Unhealthy" completed after 32.0724ms with message 'Database is not health check log now'  
+ 
+2023-09-18 14:55:07 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 0.0025ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-18 14:55:23 [ERR] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)  
+ 
+2023-09-18 14:55:23 [ERR] Health check HealthCheckDatabase with status "Unhealthy" completed after 16452.4275ms with message 'Database is not health check log now'  
+ 
+2023-09-18 14:57:26 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 1.0978ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-18 14:57:42 [ERR] A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)  
+ 
+2023-09-18 14:57:42 [ERR] Health check HealthCheckDatabase with status "Unhealthy" completed after 16750.7271ms with message 'Database is not health check log now'  
+ 
