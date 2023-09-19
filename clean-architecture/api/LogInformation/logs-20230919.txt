@@ -1,0 +1,22 @@
+2023-09-19 22:08:11 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 2.5843ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-19 22:14:37 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 0.0096ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-19 22:14:41 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 0.0027ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-19 22:14:43 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 0.0024ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-19 22:14:44 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 0.0022ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-19 22:15:42 [ERR] Health check ApplicationHealth with status "Unhealthy" completed after 0.0022ms with message 'Unhealth application response might be slow.'  
+ 
+2023-09-19 22:15:42 [ERR] Cannot open database "architecture-design-net-dev-db" requested by the login. The login failed.
+Login failed for user 'sa'.  
+ 
+2023-09-19 22:15:42 [ERR] Health check HealthCheckDatabase with status "Unhealthy" completed after 72.1808ms with message 'Database is not health check log now'  
+ 
+2023-09-19 22:15:44 [ERR] Cannot open database "architecture-design-net-dev-db" requested by the login. The login failed.
+Login failed for user 'sa'.  
+ 
+2023-09-19 22:15:44 [ERR] Health check HealthCheckDatabase with status "Unhealthy" completed after 29.9667ms with message 'Database is not health check log now'  
+ 
