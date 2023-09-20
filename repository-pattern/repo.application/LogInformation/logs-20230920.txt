@@ -1,0 +1,20 @@
+2023-09-20 21:49:35 [ERR] Unable to resolve service for type 'repo.contracts.UserContracts.IUserRepositoryAsync' while attempting to activate 'repo.application.Controllers.UserController'.  
+ 
+2023-09-20 21:57:14 [ERR] Connection is not open.  
+ 
+2023-09-20 21:58:36 [ERR] The transaction associated with this command is not the connection's active transaction; see https://fl.vu/mysql-trans  
+ 
+2023-09-20 22:07:06 [ERR] Parameter 'userName' not found in the collection.  
+ 
+2023-09-20 22:08:57 [ERR] Parameter 'userName' not found in the collection.  
+ 
+2023-09-20 22:14:37 [ERR] Field 'id' doesn't have a default value  
+ 
+2023-09-20 22:18:01 [ERR] Field 'id' doesn't have a default value  
+ 
+2023-09-20 23:14:32 [ERR] Cannot add or update a child row: a foreign key constraint fails (`repository_db`.`tbluserinformation`, CONSTRAINT `FK_tbluserinformation_qualificationId` FOREIGN KEY (`qualificationId`) REFERENCES `tbluserqualification` (`id`))  
+ 
+2023-09-20 23:16:30 [ERR] Cannot add or update a child row: a foreign key constraint fails (`repository_db`.`tbluserinformation`, CONSTRAINT `FK_tbluserinformation_qualificationId` FOREIGN KEY (`qualificationId`) REFERENCES `tbluserqualification` (`id`))  
+ 
+2023-09-20 23:20:57 [ERR] Cannot add or update a child row: a foreign key constraint fails (`repository_db`.`tbluserinformation`, CONSTRAINT `FK_tbluserinformation_qualificationId` FOREIGN KEY (`qualificationId`) REFERENCES `tbluserqualification` (`id`))  
+ 

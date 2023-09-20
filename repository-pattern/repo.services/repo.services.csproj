@@ -8,15 +8,13 @@
 
   <ItemGroup>
     <PackageReference Include="Dapper" Version="2.0.151" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
     <PackageReference Include="MySqlConnector" Version="2.2.7" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\repo.contracts\repo.contracts.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="UtilityServices\" />
   </ItemGroup>
 
 </Project>
