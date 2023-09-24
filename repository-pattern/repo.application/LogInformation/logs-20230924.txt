@@ -1,0 +1,4 @@
+2023-09-24 10:26:32 [ERR] Object reference not set to an instance of an object.  
+ 
+2023-09-24 10:38:28 [ERR] Unknown column 'updatedDated' in 'field list'  
+ 
